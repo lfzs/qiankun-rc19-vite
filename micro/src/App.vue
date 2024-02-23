@@ -1,0 +1,3 @@
+<template>
+  micro app
+</template>
