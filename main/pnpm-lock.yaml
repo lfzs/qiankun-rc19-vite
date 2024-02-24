@@ -9,7 +9,7 @@ dependencies:
     specifier: 3.0.0-rc.19
     version: 3.0.0-rc.19
   vue:
-    specifier: ^3.3.19
+    specifier: ^3.4.19
     version: 3.4.19
 
 devDependencies:

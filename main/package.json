@@ -5,7 +5,7 @@
   },
   "dependencies": {
     "qiankun": "3.0.0-rc.19",
-    "vue": "^3.3.19"
+    "vue": "^3.4.19"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^5.0.4",
